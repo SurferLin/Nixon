@@ -1,6 +1,6 @@
-from tools import Student
+from tools import getStudent
 
-stu1 = Student(name="robert",chinese=89,english=92,math=19)
+stu1 = getStudent(name="robert",chinese=89,english=92,math=75)
 print(stu1.name)
 print(stu1.chinese)
 print(stu1.english)
