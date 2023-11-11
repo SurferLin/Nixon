@@ -3,7 +3,9 @@
 ## 上課網頁
 https://meet.google.com/bio-hmps-bpr
 
-## [Python 說明書](https://docs.python.org/zh-tw/3/tutorial/index.html)
+## [Python說明書](https://docs.python.org/zh-tw/3/tutorial/index.html)
+
+## [pandas說明書](https://pandas.pydata.org/docs/reference/index.html#api)
 
 ## [2023_10_14_上午錄影](https://www.youtube.com/watch?v=YWTf5MMuTlY)
 
