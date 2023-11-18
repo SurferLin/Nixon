@@ -30,3 +30,5 @@ https://meet.google.com/bio-hmps-bpr
 ## [2023_11_11_下午錄影](https://www.youtube.com/watch?v=z5NiuQoStRc)
 
 ## [2023_11_18_上午錄影](https://www.youtube.com/watch?v=-K0lWABQmG4)
+
+## [2023_11_18_下午錄影](https://www.youtube.com/watch?v=moTldRcI0ao)
