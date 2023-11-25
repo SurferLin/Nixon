@@ -7,6 +7,8 @@ https://meet.google.com/bio-hmps-bpr
 
 ## [pandas說明書](https://pandas.pydata.org/docs/reference/index.html#api)
 
+## [numpy說明書](https://numpy.org/doc/stable/reference/index.html#reference)
+
 ## [SQLAlchemy說明書](https://docs.sqlalchemy.org/en/20/core/engines.html#sqlalchemy.create_engine)
 
 ## [2023_10_14_上午錄影](https://www.youtube.com/watch?v=YWTf5MMuTlY)
